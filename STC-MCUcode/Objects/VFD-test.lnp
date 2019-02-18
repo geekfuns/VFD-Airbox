@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\VFD-test" 
+PRINT(".\Listings\VFD-test.m51") RAMSIZE(256) 
