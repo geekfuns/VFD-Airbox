@@ -1,0 +1,4 @@
+"F:\VFDAirbox\STC-MCUcode\STARTUP.obj",
+"F:\VFDAirbox\STC-MCUcode\main.obj" 
+TO "F:\VFDAirbox\STC-MCUcode\VFD-test" 
+PRINT(".\Listings\VFD-test.m51") RAMSIZE(256) 
